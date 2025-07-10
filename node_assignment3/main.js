@@ -1,6 +1,6 @@
 import User, { validateEmail } from './user.js';
 
-const user = new User('Alice');
+const user = new User('Jayatheertha');
 console.log(user.getInfo());
 
 const email = 'jayatheertha2381@gmail.com';
